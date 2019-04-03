@@ -20,10 +20,10 @@ function UserInputs(input1, input2) {
       concertInfo(input2);
       break;
     case "spotify-this-song":
-      showSongInfo(input2);
+      songInfo(input2);
       break;
     case "movie-this":
-      showMovieInfo(input2);
+      movieInfo(input2);
       break;
     case "do-what-it-says":
       showSomeInfo();
@@ -74,7 +74,7 @@ function concertInfo(input2) {
 }
 
 // Spotify info
-function showSongInfo(input2) {
+function songInfo(input2) {
   if (input2 === undefined) {
     input2 = "The Sign"; //default Song
   }
@@ -117,7 +117,7 @@ function showSongInfo(input2) {
 }
 
 // OMDB info
-function showMovieInfo(input2) {
+function movieInfo(input2) {
   if (input2 === undefined) {
     input2 = "Deadpool";
     console.log("-----------------------");
@@ -172,7 +172,7 @@ function showMovieInfo(input2) {
   });
 }
 
-//function to get proper Rotten Tomatoes Rating
+// Rotten tomato access
 function getRottenTomatoesRatingObject(data) {
   return data.Ratings.find(function(item) {
     return item.Source === "Rotten Tomatoes";
