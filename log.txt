@@ -1,0 +1,185 @@
+**********MOVIE INFO*********
+Title: Deadpool
+Release Year: 2016
+IMDB Rating: 8.0
+-- Movie Info --
+Title: Deadpool
+Release Year: 2016
+IMDB Rating: 8.0
+Rotten Tomatoes Rating: 84%
+Country of Production: USA
+Language: English
+Plot: A wisecracking mercenary gets experimented on and becomes immortal but ugly, and sets out to track down the man who ruined his looks.
+Actors: Ryan Reynolds, Karan Soni, Ed Skrein, Michael Benyaer
+---------
+-----------------------
+If you haven't watched 'Mr. Nobody,' then you should: http://www.imdb.com/title/tt0485947/
+It's on Netflix!
+-- Movie Info --
+Title: Mr. Nobody
+Release Year: 2009
+IMDB Rating: 7.8
+Rotten Tomatoes Rating: 67%
+Country of Production: Belgium, Germany, Canada, France, USA, UK
+Language: English, Mohawk
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+---------
+-- Sing Info --
+0
+song name: Sign of the Times
+preview song: https://p.scdn.co/mp3-preview/af237206f611b722f48620ece049aff3b8650e77?cid=e3083a911c9c4dd4835e52e04849cd9d
+album: Harry Styles
+artist(s): Harry Styles
+---------
+-- Sing Info --
+1
+song name: Scared of the Dark (feat. XXXTENTACION)
+preview song: null
+album: Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)
+artist(s): Lil Wayne
+---------
+-- Sing Info --
+2
+song name: Woah (feat. Miguel & Ty Dolla $ign)
+preview song: null
+album: The World Is Yours 2
+artist(s): Rich The Kid
+---------
+-- Sing Info --
+3
+song name: Or Nah (feat. The Weeknd, Wiz Khalifa & DJ Mustard) - Remix
+preview song: https://p.scdn.co/mp3-preview/70f126c139847335bc03c756c55b80c99892268e?cid=e3083a911c9c4dd4835e52e04849cd9d
+album: Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) [Remix Version]
+artist(s): Ty Dolla $ign
+---------
+-- Sing Info --
+4
+song name: Impatient
+preview song: null
+album: Late Nights: The Album
+artist(s): Jeremih
+---------
+-- Sing Info --
+5
+song name: Woah (feat. Miguel & Ty Dolla $ign)
+preview song: null
+album: The World Is Yours 2
+artist(s): Rich The Kid
+---------
+-- Sing Info --
+6
+song name: The Light
+preview song: null
+album: The Light
+artist(s): Jeremih
+---------
+-- Sing Info --
+7
+song name: Movin’ Up
+preview song: null
+album: Quality Control: Control The Streets Volume 1
+artist(s): Quality Control
+---------
+-- Sing Info --
+8
+song name: Sign of the Times
+preview song: https://p.scdn.co/mp3-preview/9801b9239ad1b833f1317574ee55b9d7b8426ff1?cid=e3083a911c9c4dd4835e52e04849cd9d
+album: Sign of the Times
+artist(s): Harry Styles
+---------
+-- Sing Info --
+9
+song name: The Sign
+preview song: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=e3083a911c9c4dd4835e52e04849cd9d
+album: The Sign (US Album) [Remastered]
+artist(s): Ace of Base
+---------
+-- Sing Info --
+10
+song name: Cinderella (feat. Ty Dolla $ign)
+preview song: https://p.scdn.co/mp3-preview/1f797d8ec6a6ca7dd84d9a6d496bc92748d24557?cid=e3083a911c9c4dd4835e52e04849cd9d
+album: The Divine Feminine
+artist(s): Mac Miller
+---------
+-- Sing Info --
+11
+song name: Love U Better (feat. Lil Wayne & The-Dream)
+preview song: https://p.scdn.co/mp3-preview/8917010fb6f1883ff95e85abf35428d98904f29b?cid=e3083a911c9c4dd4835e52e04849cd9d
+album: Beach House 3
+artist(s): Ty Dolla $ign
+---------
+-- Sing Info --
+12
+song name: Girl's Best Friend (feat. Ty Dolla $ign)
+preview song: null
+album: Rap Or Go To The League
+artist(s): 2 Chainz
+---------
+-- Sing Info --
+13
+song name: 100 Grand (feat. Ty Dolla $ign & A Boogie wit da Hoodie)
+preview song: null
+album: Signed To The Streets 3
+artist(s): Lil Durk
+---------
+-- Sing Info --
+14
+song name: Droptop in the Rain (feat. Tory Lanez)
+preview song: https://p.scdn.co/mp3-preview/ffa127c9856a0c60b5fcddf57ead126dfba2d390?cid=e3083a911c9c4dd4835e52e04849cd9d
+album: Beach House 3
+artist(s): Ty Dolla $ign
+---------
+-- Sing Info --
+15
+song name: Warning Sign
+preview song: https://p.scdn.co/mp3-preview/aa7d87a8e2ac9aa7261c7640548a18930572043d?cid=e3083a911c9c4dd4835e52e04849cd9d
+album: A Rush Of Blood To The Head
+artist(s): Coldplay
+---------
+-- Sing Info --
+16
+song name: All That She Wants
+preview song: https://p.scdn.co/mp3-preview/b176774bc04182501c2d5d201afda143b1193f31?cid=e3083a911c9c4dd4835e52e04849cd9d
+album: The Sign (US Album) [Remastered]
+artist(s): Ace of Base
+---------
+-- Sing Info --
+17
+song name: Sucker For Pain (with Wiz Khalifa, Imagine Dragons, Logic & Ty Dolla $ign feat. X Ambassadors)
+preview song: https://p.scdn.co/mp3-preview/96f9689e58c4d6188cc269c0c2089036c3817a2e?cid=e3083a911c9c4dd4835e52e04849cd9d
+album: Suicide Squad: The Album
+artist(s): Lil Wayne
+---------
+-- Sing Info --
+18
+song name: Shell Shocked (feat. Kill The Noise & Madsonik) - From "Teenage Mutant Ninja Turtles"
+preview song: https://p.scdn.co/mp3-preview/26fa73b8c2e9ce91efb44fad48c5a38b2e48dc11?cid=e3083a911c9c4dd4835e52e04849cd9d
+album: Shell Shocked (feat. Kill The Noise & Madsonik) [From "Teenage Mutant Ninja Turtles"]
+artist(s): Juicy J
+---------
+-- Sing Info --
+19
+song name: The Other Side (with MAX & Ty Dolla $ign)
+preview song: https://p.scdn.co/mp3-preview/a3c926a4a3a8876a61b09cd54ea343e876092321?cid=e3083a911c9c4dd4835e52e04849cd9d
+album: The Greatest Showman: Reimagined
+artist(s): MAX
+---------
+-- Concert Info --
+0
+Name of the Venue: BottleRock
+Venue Location: Napa
+Date of the Event: 2019-05-24T19:00:39
+---------
+-- Concert Info --
+1
+Name of the Venue: Visarno Arena
+Venue Location: Florence
+Date of the Event: 2019-06-02T20:30:00
+---------
+-- Concert Info --
+2
+Name of the Venue: Pro Football Hall of Fame
+Venue Location: Canton
+Date of the Event: 2019-08-04T19:00:54
+---------
