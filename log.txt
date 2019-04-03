@@ -183,3 +183,16 @@ Name of the Venue: Pro Football Hall of Fame
 Venue Location: Canton
 Date of the Event: 2019-08-04T19:00:54
 ---------
+-----------------------
+If you haven't watched 'Deadpool,' then you should: http://www.imdb.com/title/tt0485947/
+It's on Netflix!
+-- Movie Info --
+Title: Deadpool
+Release Year: 2016
+IMDB Rating: 8.0
+Rotten Tomatoes Rating: 84%
+Country of Production: USA
+Language: English
+Plot: A wisecracking mercenary gets experimented on and becomes immortal but ugly, and sets out to track down the man who ruined his looks.
+Actors: Ryan Reynolds, Karan Soni, Ed Skrein, Michael Benyaer
+---------
